@@ -1,1 +1,0 @@
-print("persiapan pembuatan F3")
